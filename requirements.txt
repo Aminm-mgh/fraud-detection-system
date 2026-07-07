@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+shap
+dice-ml
+mapie
+evidently
+fastapi
+uvicorn
+pydantic
+streamlit
+plotly
+pytest
+python-dotenv
